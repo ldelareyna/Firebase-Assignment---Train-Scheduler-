@@ -1,0 +1,16 @@
+body {
+	background-color: thistle;
+	background-image: radial-gradient(#fff 10%, transparent 10%),
+	radial-gradient(#fff 10%, transparent 10%);
+	background-size: 30px 30px;
+	background-position: 0 0, 15px 15px;
+}
+
+h1 {
+	font-size: 50%;
+	font-family: 'Fredericka the Great', cursive;
+}
+
+h3 {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
